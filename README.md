@@ -4,18 +4,23 @@
 
 ## 보유 기술
 
-- 언어
-  - JavaScript, ES6+
-  - HTML5
-  - CSS3
-- 라이브러리/프레임워크
-  - React.js
-  - Redux
-  - Redux Saga
-  - Vue.js
-  - RxJS
-- 형상관리
-  - Git
+### 언어/런타임
+  
+- JavaScript, ES6+, Node.js
+- HTML5
+- CSS3
+
+### 라이브러리/프레임워크
+
+- React.js
+- Redux
+- Redux Saga
+- Vue.js
+- RxJS
+
+### 형상관리
+
+- Git
 
 ## 경력
 
@@ -23,6 +28,7 @@
 
 ## 학력
 
-- 동국대학교 수학교육과 학사
-  - 입학 2011.02 ~ 졸업 2017.03
-  - 평균학점 3.9/4.5
+### 동국대학교 수학교육과 학사
+
+- 입학 2011.02 ~ 졸업 2017.03
+- 평균학점 3.9 / 4.5
