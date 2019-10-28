@@ -3,15 +3,7 @@
 > 저는 웹 프론트엔드 개발자입니다. 자바스크립트로 함수형 프로그래밍을 하는 것을 좋아합니다.
 
 - [보유 기술](https://github.com/daengdaengLee/daengdaenglee.github.io/tree/master/skills)
-
-## 경력
-
-### 브릭(BRIQUE)
-
-- 입사 2018.03 ~ 재직중
-- 제조 공장에서 사용하는 데이터 분석 어플리케이션 개발, 시스템 통합
-- 웹 프론트엔드 개발
-- [홈페이지](http://www.brique.co.kr/main)
+- [경력](https://github.com/daengdaengLee/daengdaenglee.github.io/tree/master/companies)
 
 ## 프로젝트
 
