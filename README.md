@@ -4,16 +4,7 @@
 
 - [보유 기술](https://github.com/daengdaengLee/daengdaenglee.github.io/tree/master/skills)
 - [경력](https://github.com/daengdaengLee/daengdaenglee.github.io/tree/master/companies)
-
-## 프로젝트
-
-### 데이터 분석 플랫폼 UI 개발
-
-- 2018.03 ~ 진행중
-
-### 결함 감지/분류 어플리케이션 UI 개발
-
-- 2018.08 ~ 2018.09
+- [프로젝트](https://github.com/daengdaengLee/daengdaenglee.github.io/tree/master/projects)
 
 ## 학력
 
